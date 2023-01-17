@@ -15,7 +15,7 @@ which says in its summary:
 
 ## [0.1.0]
 
-(2021-06-06)
+(2021-08-20)
 
 ### Added
 
